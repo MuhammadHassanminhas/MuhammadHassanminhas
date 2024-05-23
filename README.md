@@ -29,7 +29,7 @@
   <img width="26" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="43" alt="linux logo"  />
   <img width="26" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="43" alt="ubuntu logo"  />
+
 </div>
 
 ###
