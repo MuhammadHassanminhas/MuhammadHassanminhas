@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">🤓 I'm an AI Enthusiast.<br><br>🚀 I'm currently learning Scikit-Learn and Tensor Flow.<br><br>✍️ I write blogs on medium.</p>
+<p align="left">I'm an AI Enthusiast.<br><br>🚀 I'm currently learning Deep Learning.<br><br>✍️ I write blogs on medium.</p>
 
 ###
 
-<img align="right" height="176" src="https://static.wixstatic.com/media/3eee0b_8b6780c6bd8245ecafdbe55d8db7e2df~mv2.gif"  />
+
 
 ###
 
