@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm an AI Enthusiast.<br><br>🚀 I'm currently learning Deep Learning.<br><br>✍️ I write blogs on medium.</p>
+<p align="left">I'm an AI Enthusiast.<br><br>✍️ I write blogs on medium.</p>
 
 ###
 
