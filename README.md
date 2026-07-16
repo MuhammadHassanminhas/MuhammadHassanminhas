@@ -11,16 +11,15 @@
 </a>
 
 </div>
+<pre>
 
----
 
-I'm a **Data Science** student who spends most of his time getting machines to understand messy real-world data. I write about what I learn on [Medium](https://medium.com/@muhammadhassan1762005), break things in interesting ways, and occasionally Momo steals my food while I'm debugging.
+ 💼 BSDA @ AU • AI Engineer
+    💻 Automation 
+    📖 Software architecture • 
+ 
+</pre>
 
-Currently building AI-powered systems at [indici](https://github.com/MuhammadHassanminhas) — turning natural language into SQL, catching healthcare anomalies, and making sure the AI doesn't hallucinate its way through clinical data.
-
-When I'm not writing code, I'm probably reading about low-level systems, lifting weights, or rewatching ATLA for the fifth time.
-
----
 
 <h3 align="center">⚒️ what i work with</h3>
 
