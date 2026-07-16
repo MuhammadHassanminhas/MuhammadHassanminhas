@@ -14,8 +14,8 @@
 <pre>
 
 
- 💼 BSDA @ AU • AI Engineer
-    💻 Automation 
+    💼 BSDS @ AU • 
+    💻 AI Engineer • Automation •
     📖 Software architecture • 
  
 </pre>
